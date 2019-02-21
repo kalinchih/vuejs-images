@@ -1,4 +1,4 @@
-# vue-images
+# vuejs-images
 
 Learn Vue from https://www.udemy.com/vue-js-course
 
